@@ -1,0 +1,9 @@
+buy-link:
+【CAN分析仪 CANOpen J1939 DeviceNet USBCAN-2 USB转CAN 兼容zlg】https://m.tb.cn/h.eYykUtO?sm=031666 点击链接，再选择浏览器咑閞；或復|制这段描述￥NXIGYbQbNEb￥后到淘♂寳♀
+
+
+$ cd ~/controlcan
+
+$ make clean&&make 
+
+$ sudo ./can_analyse_rev
